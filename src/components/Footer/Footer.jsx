@@ -2,7 +2,6 @@ import { Component } from "react";
 import './footer.css'
 
 class Footer extends Component {
-    state = {  } 
     render() { 
         return <footer>
 

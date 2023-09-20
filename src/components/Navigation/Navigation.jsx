@@ -1,8 +1,7 @@
 import { Component } from "react";
-import './footer.css'
+import './navigation.css'
 
 class Navigation extends Component {
-    state = {  } 
     render() { 
         return <div></div>;
     }
