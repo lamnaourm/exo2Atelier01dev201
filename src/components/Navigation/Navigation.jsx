@@ -1,11 +1,11 @@
 import { Component } from "react";
 import './footer.css'
 
-class Footer extends Component {
+class Navigation extends Component {
     state = {  } 
     render() { 
         return <div></div>;
     }
 }
  
-export default Footer;
+export default Navigation;
