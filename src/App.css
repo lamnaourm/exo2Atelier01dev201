@@ -1,0 +1,17 @@
+.container {
+    height: 100vh;
+    margin: auto;
+    width: 900px;
+    display: grid;
+    grid-template-columns: 20% 1fr;
+    grid-template-rows: 25% 1fr auto;
+    gap: 10px;
+}
+
+header {
+    grid-column: 1/3;
+}
+
+footer {
+    grid-column: 1/3;
+}

@@ -1,0 +1,21 @@
+header {
+    display: inline-flex;
+    border: 1px solid blue;
+    gap: 30px;
+}
+
+header img {
+    width: 130px;
+    height: 130px;
+    margin-top: 10px;
+}
+
+header div h1 {
+    margin: 0;
+    padding: 0;
+}
+
+header div h2 {
+    margin: 0;
+    padding: 0;
+}
